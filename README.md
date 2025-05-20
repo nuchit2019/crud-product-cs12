@@ -1,4 +1,4 @@
-โปรเจกต์ **CRUD Product API** โดยใช้:
+โปรเจ็กต์ **CRUD Product API** โดยใช้:
 
 ✅ C# 12
 ✅ Clean Architecture
