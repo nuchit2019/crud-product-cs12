@@ -17,13 +17,13 @@
 
 ```
 ProductAPI/
-├── Api/                  → WebAPI Layer (Controllers, Middleware, Program.cs)
+├── Api/                  → API Layer (Controllers)
 │   ├── Controllers/
 ├── Middleware/
 │       ├── ApiResponseWrapperMiddleware.cs
 │       └── ExceptionHandlingMiddleware.cs
 │
-├── Application/         → Application Layer (DTOs, Interfaces, Services, Common)
+├── Application/         → Application Layer (DTOs, Interfaces, Services)
 │   ├── Interfaces/
 │   ├── Services/
 ├── Common/
