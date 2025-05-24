@@ -173,7 +173,8 @@ dotnet run --project ProductAPI.Api
 
 ### 👨‍💻 Author
 
-* \[Nuchit Atjanawat]
-* \[nuchit2019]
+> *  Nuchita-นุชิตะ
+> *  2025-05-20
+> *  ขอบคุณ ChatBot ทุกตัว
 
 #
